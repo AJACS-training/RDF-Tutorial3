@@ -49,6 +49,7 @@ RDFそのものについても基本的なことから解説しますので、�
     - [スライド](http://tinyurl.com/togodb-2018-slides)
 * 「D2RQ Mapperを利用した、データのRDF化」 
     - 講師：山本 泰智（ライフサイエンス統合データベースセンター）
+    - [スライド](https://figshare.com/articles/_3_RDF__D2RQ_Mapper_/7286174/1)
 
 
 
