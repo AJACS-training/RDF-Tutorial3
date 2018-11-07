@@ -63,6 +63,6 @@ RDFそのものについても基本的なことから解説しますので、�
 
 
 ## 参考文献
-
+* [オリジナルサイト](http://wiki.lifesciencedb.jp/mw/RDF-Tutorial3)
 * [オープンデータ時代の標準 Web API SPARQL](http://sparqlbook.jp/)
 * [Togetter: 第1回RDF講習会](http://togetter.com/li/1034066 )
