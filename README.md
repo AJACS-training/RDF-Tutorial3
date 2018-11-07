@@ -38,7 +38,7 @@ RDFそのものについても基本的なことから解説しますので、�
 * 「RDF によるデータ統合」「RDF入門」 
     - 講師：川島 秀一（ライフサイエンス統合データベースセンター） ・岡別府陽子(フリーランスエンジニア)
     - [スライド「RDF によるデータ統合」](http://wiki.lifesciencedb.jp/mw/images/d/df/RDF-lecture-03_20181101-3_s.pdf)
-    - [スライド「RDF入門](http://wiki.lifesciencedb.jp/mw/images/5/59/RDF-lecture-03_20181101-1_s.pdf)
+    - [スライド「RDF入門」](http://wiki.lifesciencedb.jp/mw/images/5/59/RDF-lecture-03_20181101-1_s.pdf)
 
 * 「SPARQL入門」 
     - 講師：山本 泰智（ライフサイエンス統合データベースセンター） ・岡別府陽子(フリーランスエンジニア)
